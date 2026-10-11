@@ -38,3 +38,13 @@ class Developer:
 I moved from technical support into software development and data work, through an 18-month project-based programme at CAPACITI and a data analyst internship at Loop.
 
 > 🔄 **A note on this profile:** I lost access to my previous GitHub account, so this is a deliberate restart. I'm rebuilding my earlier projects from scratch and building new ones.
+
+
+---
+
+## 🔭 Currently Building
+
+| Project | Focus | Stack | Status |
+|:--|:--|:--|:--|
+| [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Retail data pipeline: ingest, validate, transform, load | `Python` `SQL` | 🟢 Active |
+| [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Homework, notes and capstone for the ML Zoomcamp (2026) | `Python` `Jupyter` | 🟢 Active |
