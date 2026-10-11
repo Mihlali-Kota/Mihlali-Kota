@@ -48,3 +48,11 @@ I moved from technical support into software development and data work, through 
 |:--|:--|:--|:--|
 | [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Retail data pipeline: ingest, validate, transform, load | `Python` `SQL` | 🟢 Active |
 | [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Homework, notes and capstone for the ML Zoomcamp (2026) | `Python` `Jupyter` | 🟢 Active |
+
+
+---
+
+<!-- SECTION: Tech Stack -->
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github&perline=9" alt="Tech stack"/>
