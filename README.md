@@ -48,3 +48,16 @@ I moved from technical support into software development and data work, through 
 |:--|:--|:--|:--|
 | [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Retail data pipeline: ingest, validate, transform, load | `Python` `SQL` | 🟢 Active |
 | [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Homework, notes and capstone for the ML Zoomcamp (2026) | `Python` `Jupyter` | 🟢 Active |
+
+
+**Target architecture for the pipeline:**
+
+```mermaid
+flowchart LR
+    A[(Raw retail data)] --> B[Ingest]
+    B --> C{Data quality checks}
+    C -- pass --> D[Transform]
+    C -- fail --> E[Quarantine and report]
+    D --> F[(Clean store)]
+    F --> G[Analytics and ML features]
+```
