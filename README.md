@@ -56,3 +56,12 @@ I moved from technical support into software development and data work, through 
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github&perline=9" alt="Tech stack"/>
+
+
+---
+
+<!-- SECTION: Certifications -->
+## 🏅 Certifications
+
+- **Oracle Cloud Infrastructure Foundations Associate** (2025)
+- **Oracle Cloud Infrastructure AI Foundations Associate** (2025)
