@@ -12,3 +12,29 @@ Cape Town, South Africa
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </div>
+
+
+---
+
+## `> whoami`
+
+```python
+class Developer:
+    name       = "Mihlali Kota"
+    location   = "Cape Town, South Africa"
+    background = ["Technical Support", "Customer Care (UK & AU markets)", "Data Analysis"]
+    languages  = ["Python", "Java", "JavaScript", "SQL"]
+    certified  = ["OCI Foundations Associate", "OCI AI Foundations Associate"]
+
+    currently  = {
+        "learning": ["Machine Learning", "Data Engineering"],
+        "building": ["Python retail data pipeline", "ML Zoomcamp projects"],
+    }
+
+    def strength(self):
+        return "Understands the people using the software, not only the code."
+```
+
+I moved from technical support into software development and data work, through an 18-month project-based programme at CAPACITI and a data analyst internship at Loop.
+
+> 🔄 **A note on this profile:** I lost access to my previous GitHub account, so this is a deliberate restart. I'm rebuilding my earlier projects from scratch and building new ones.
