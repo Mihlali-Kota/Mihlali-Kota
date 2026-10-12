@@ -35,8 +35,6 @@ class Developer:
         return "Understands the people using the software, not only the code."
 ```
 
-I moved from technical support into software development and data work, through an 18-month project-based programme at CAPACITI and a data analyst internship at Loop.
-
 > 🔄 **A note on this profile:** I lost access to my previous GitHub account, so this is a deliberate restart. I'm rebuilding my earlier projects from scratch and building new ones.
 
 
