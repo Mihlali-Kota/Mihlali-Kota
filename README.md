@@ -9,7 +9,7 @@ Cape Town, South Africa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mihlali--kota-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihlali-kota)
 [![Email](https://img.shields.io/badge/Email-hlalikota@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hlalikota@gmail.com)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B673752A01203BD072ED9B03CF306D10A3E06E6F551B813F59E1F0A7322C5F82)
 
 </div>
 
