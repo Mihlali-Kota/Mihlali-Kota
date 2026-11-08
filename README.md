@@ -46,7 +46,7 @@ class Developer:
 |:--|:--|:--|:--|
 | [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Retail data pipeline: ingest, validate, transform, load | `Python` `SQL` | 🟢 Active |
 | [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Homework, notes and capstone for the ML Zoomcamp (2026) | `Python` `Jupyter` | 🟢 Active |
-| `flask-sandbox` | Side project: *(one-line description)* | `Python` `Flask` | 🟢 Active |
+| `flask-sandbox` | Practice project for building web apps and APIs with Flask | `Python` `Flask` | 🟢 Active |
 
 
 ---
