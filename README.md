@@ -28,7 +28,7 @@ class Developer:
 
     currently  = {
         "learning": ["Machine Learning", "Data Engineering"],
-        "building": ["Python retail data pipeline", "ML Zoomcamp projects"],
+        "building": ["Python retail data pipeline", "ML Zoomcamp projects", "Flask sandbox"],
     }
 
     def strength(self):
@@ -46,6 +46,7 @@ class Developer:
 |:--|:--|:--|:--|
 | [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Retail data pipeline: ingest, validate, transform, load | `Python` `SQL` | 🟢 Active |
 | [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Homework, notes and capstone for the ML Zoomcamp (2026) | `Python` `Jupyter` | 🟢 Active |
+| `flask-sandbox` | Side project: *(one-line description)* | `Python` `Flask` | 🟢 Active |
 
 
 ---
