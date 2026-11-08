@@ -1,3 +1,4 @@
+<!-- SECTION: Header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mihlali%20Kota&fontSize=64&fontColor=ffffff" width="100%" alt="Mihlali Kota banner"/>
@@ -16,6 +17,7 @@ Cape Town, South Africa
 
 ---
 
+<!-- SECTION: Whoami -->
 ## `> whoami`
 
 ```python
@@ -40,13 +42,24 @@ class Developer:
 
 ---
 
+<!-- SECTION: Update -->
+## 📌 Update
+
+My projects slowed down while I was job hunting, so a few of them are behind where I wanted them to be. I've since landed a job, and I'm catching up on the missed work and will keep posting progress here.
+
+
+---
+
+<!-- SECTION: Currently Building -->
 ## 🔭 Currently Building
 
 | Project | Focus | Stack | Status |
 |:--|:--|:--|:--|
-| [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Retail data pipeline: ingest, validate, transform, load | `Python` `SQL` | 🟢 Active |
-| [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Homework, notes and capstone for the ML Zoomcamp (2026) | `Python` `Jupyter` | 🟢 Active |
+| [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Learning project: retail data pipeline in Python (early stage) | `Python` `SQL` | 🟡 Just started |
+| [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Notes and homework for the ML Zoomcamp (2026), catching up on missed work | `Python` `Jupyter` | 🟡 Catching up |
 | `flask-sandbox` | Practice project for building web apps and APIs with Flask | `Python` `Flask` | 🟢 Active |
+
+🟢 Active &nbsp;·&nbsp; 🟡 Early stage or catching up
 
 
 ---
