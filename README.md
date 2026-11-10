@@ -3,14 +3,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mihlali%20Kota&fontSize=64&fontColor=ffffff" width="100%" alt="Mihlali Kota banner"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+data+pipelines+in+Python;Learning+machine+learning+in+public;Rebuilding+my+portfolio+from+scratch" alt="Typing animation"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+machine+learning+and+data+engineering;Turning+complex+problems+into+clear+solutions;Technical+support+background+with+a+developer+mindset" alt="Typing animation"/></a>
 
 ### Junior Software Developer & Data Analyst
 Cape Town, South Africa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mihlali--kota-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihlali-kota)
-[![Email](https://img.shields.io/badge/Email-hlalikota@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hlalikota@gmail.com)
-[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B673752A01203BD072ED9B03CF306D10A3E06E6F551B813F59E1F0A7322C5F82)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-mihlali--kota-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/mihlali-kota)
+[
+
+![Email](https://img.shields.io/badge/Email-hlalikota@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+
+](mailto:hlalikota@gmail.com)
+[
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B673752A01203BD072ED9B03CF306D10A3E06E6F551B813F59E1F0A7322C5F82)
 
 </div>
 
@@ -30,14 +42,13 @@ class Developer:
 
     currently  = {
         "learning": ["Machine Learning", "Data Engineering"],
-        "building": ["Python retail data pipeline", "ML Zoomcamp projects", "Flask sandbox"],
     }
 
     def strength(self):
         return "Understands the people using the software, not only the code."
 ```
 
-> 🔄 **A note on this profile:** I lost access to my previous GitHub account, so this is a deliberate restart. I'm rebuilding my earlier projects from scratch and building new ones.
+> 🔄 **A note on this profile:** I lost access to my previous GitHub account, so this is a fresh start.
 
 
 ---
@@ -45,21 +56,7 @@ class Developer:
 <!-- SECTION: Update -->
 ## 📌 Update
 
-My projects slowed down while I was job hunting, so a few of them are behind where I wanted them to be. I've since landed a job, and I'm catching up on the missed work and will keep posting progress here.
-
-
----
-
-<!-- SECTION: Currently Building -->
-## 🔭 Currently Building
-
-| Project | Focus | Stack | Status |
-|:--|:--|:--|:--|
-| [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Learning project: retail data pipeline in Python (early stage) | `Python` `SQL` | 🟡 Just started |
-| [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Notes and homework for the ML Zoomcamp (2026), catching up on missed work | `Python` `Jupyter` | 🟡 Catching up |
-| `flask-sandbox` | Practice project for building web apps and APIs with Flask | `Python` `Flask` | 🟢 Active |
-
-🟢 Active &nbsp;·&nbsp; 🟡 Early stage or catching up
+I recently started a new job, and I'm continuing to learn machine learning and data engineering alongside it.
 
 
 ---
