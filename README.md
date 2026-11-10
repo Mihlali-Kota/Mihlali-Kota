@@ -8,21 +8,9 @@
 ### Junior Software Developer & Data Analyst
 Cape Town, South Africa
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-mihlali--kota-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/mihlali-kota)
-[
-
-![Email](https://img.shields.io/badge/Email-hlalikota@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
-
-](mailto:hlalikota@gmail.com)
-[
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B673752A01203BD072ED9B03CF306D10A3E06E6F551B813F59E1F0A7322C5F82)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mihlali--kota-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihlali-kota)
+[![Email](https://img.shields.io/badge/Email-hlalikota@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hlalikota@gmail.com)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B673752A01203BD072ED9B03CF306D10A3E06E6F551B813F59E1F0A7322C5F82)
 
 </div>
 
@@ -58,6 +46,20 @@ class Developer:
 ## 📌 Update
 
 My projects slowed down while I was job hunting, so a few of them are behind where I wanted them to be. I've since landed a job, and I'm catching up on the missed work and will keep posting progress here.
+
+
+---
+
+<!-- SECTION: Currently Building -->
+## 🔭 Currently Building
+
+| Project | Focus | Stack | Status |
+|:--|:--|:--|:--|
+| [`mini-data-pipeline`](https://github.com/Mihlali-Kota/mini-data-pipeline) | Learning project: retail data pipeline in Python (early stage) | `Python` `SQL` | 🟡 Just started |
+| [`ml-zoomcamp`](https://github.com/Mihlali-Kota/ml-zoomcamp) | Notes and homework for the ML Zoomcamp (2026), catching up on missed work | `Python` `Jupyter` | 🟡 Catching up |
+| `flask-sandbox` | Practice project for building web apps and APIs with Flask | `Python` `Flask` | 🟢 Active |
+
+🟢 Active &nbsp;·&nbsp; 🟡 Early stage or catching up
 
 
 ---
